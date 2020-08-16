@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "Paitn My Wall"
+include ':java'
+include ':openCVLibrary347'

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Paitn My Wall</string>
+    <string name="image_uploaded_by_user_to_the_app">Image uploaded by user to the app</string>
+    <string name="input_image">Input Image</string>
+    <string name="menu_open">Final Image</string>
+    <string name="menu_select">Select target</string>
+    <string name="menu_cut">Process Image</string>
+    <string name="menu_photo">Take Photo</string>
+    <string name="menu_gallery">Open Gallery</string>
+    <string name="menu_color">Choose Color</string>
+    <string name="menu_texture">Choose Texture</string>
+</resources>
